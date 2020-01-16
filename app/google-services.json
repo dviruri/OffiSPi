@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "671548690319",
+    "firebase_url": "https://offispi-30981.firebaseio.com",
+    "project_id": "offispi-30981",
+    "storage_bucket": "offispi-30981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671548690319:android:2fdc38f5a4a22802cc85fa",
+        "android_client_info": {
+          "package_name": "com.example.offispi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671548690319-0b1919s5ocuv56d9ol0g5ded237hqj06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.offispi",
+            "certificate_hash": "ba1179a2ed332b76b4421f91258d9786126a58e1"
+          }
+        },
+        {
+          "client_id": "671548690319-i1jo2rmqu4klg0j455bifs329jnvjnk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZoOukMmDD3WqII-tHsIfTbR_IyYNp1jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671548690319-i1jo2rmqu4klg0j455bifs329jnvjnk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
